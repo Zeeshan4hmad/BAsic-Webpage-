@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<div>
+Hi there! Welcome to the page.
+<p>This is the basic page for adding background color using CSS.</p>
+My name is Achyut Agrawal.
+</div>
+
+</body>
+</html>
