@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Tags on webpage
+</title>
+</head>
+<body>
+&lt;html&gt;<br>
+&lt;head&gt;<br>
+&lt;title&gt;<br>
+tags on webpage<br>
+&lt;/title&gt;<br>
+&lt;/head&gt;<br>
+&lt;body&gt;<br>
+&lt;/body&gt;<br>
+&lt;/html&gt;<br>
+</body>
+</html>
